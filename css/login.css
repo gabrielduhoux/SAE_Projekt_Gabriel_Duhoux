@@ -1,0 +1,41 @@
+html {
+  /* Mittig im Browser */
+  margin: 0 auto;
+  /* Breite des Inhalts */
+  width: 1200px;
+}
+
+body {
+  /* Standard margin aufheben */
+  margin: 0px;
+}
+
+.chat_area {
+  width: 1000px;
+  height: 600px;
+  background-color: lightgrey;
+  border-radius: 20px;
+}
+
+.comment {
+  width: 400px;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  margin-left: 20px;
+  position: absolute;
+  border-radius: 20px 20px 20px 5px;
+  background-color: #21426d;
+  color: lightgrey;
+}
+
+.question {
+  width: 400px;
+  height: 70px;
+  border-radius: 20px 20px 0px 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding-left: 15px;
+  padding-top: 5px;
+}

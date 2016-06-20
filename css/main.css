@@ -1,0 +1,76 @@
+html {
+  /* Mittig im Browser */
+  margin: 0 auto;
+  /* Breite des Inhalts */
+  width: 1200px;
+}
+
+body {
+  /* Standard margin aufheben */
+  margin: 0px;
+}
+
+.main_content {
+  border: 2px dotted lightgrey;
+  float: left;
+  width: 800px;
+  height: 522px;
+}
+
+h3 {
+  margin-left: 50px;
+}
+
+.h4 {
+  margin-left: 50px;
+}
+
+.main_text {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 60px;
+}
+
+h4 {
+  margin-left: 862px;
+}
+
+.login {
+  margin-left: 862px;
+  padding-bottom: 20px;
+}
+
+.login_values {
+  margin-bottom: 10px;
+}
+
+hr {
+  margin-left: 862px;
+}
+
+.new_user {
+  margin-left: 862px;
+}
+
+.new_user_name {
+  margin-bottom: 10px;
+}
+
+.new_user_email {
+  margin-bottom: 10px;
+}
+
+.new_user_pass {
+  margin-bottom: 10px;
+}
+
+.picture {
+  margin-left: 862px;
+  margin-top: 35px;
+}
+
+
+.clearer {
+  /* um den float aufzuheben */
+  clear: both;
+}

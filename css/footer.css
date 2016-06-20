@@ -1,0 +1,20 @@
+footer {
+  margin-top: 50px;
+  width: 100%;
+  height: 60px;
+  background: #21426d;
+}
+
+footer a {
+  margin-left: 170px;
+  text-decoration: none;
+  color: black;
+}
+
+footer button {
+  margin-top: 15px;
+}
+
+footer button:hover {
+  color: blue;
+}

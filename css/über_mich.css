@@ -1,0 +1,25 @@
+html {
+  /* Mittig im Browser */
+  margin: 0 auto;
+  /* Breite des Inhalts */
+  width: 1200px;
+}
+
+body {
+  /* Standard margin aufheben */
+  margin: 0px;
+}
+
+.img_me {
+  height: 200px;
+  width: 200px;
+  margin-top: 50px;
+  margin-right: 50px;
+  float: left;
+}
+
+.info_text {
+  margin-left: 250px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
